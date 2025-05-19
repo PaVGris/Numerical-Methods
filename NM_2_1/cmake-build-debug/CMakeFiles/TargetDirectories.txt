@@ -1,3 +1,0 @@
-C:/Users/pavel/Desktop/DA/NM_2_1/cmake-build-debug/CMakeFiles/NM_2_1.dir
-C:/Users/pavel/Desktop/DA/NM_2_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/pavel/Desktop/DA/NM_2_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

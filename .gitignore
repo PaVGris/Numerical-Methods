@@ -1,0 +1,30 @@
+# Директории сборки
+cmake-build-*/
+build/
+out/
+
+# Конфигурационные файлы IDE
+.idea/
+*.iml
+
+# Артефакты сборки
+*.o
+*.obj
+*.so
+*.a
+*.exe
+*.dll
+*.log
+
+# Кеши и временные файлы
+*.cache
+*.tmp
+*.swp
+
+# Файлы CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+./vscode
